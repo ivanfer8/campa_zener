@@ -1,5 +1,5 @@
 <?php
-	//die("Pantalla en mantenimiento. Disculpe las molestias2.");
+	//die("Pantalla en mantenimiento. Disculpe las molestias3.");
 	if(isset($_REQUEST["on"])){
 		//echo "Abriendo";
 		gpio(17, 1);
