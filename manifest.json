@@ -1,0 +1,18 @@
+{
+    "lang": "en-us",
+    "version": "2",
+    "name": "Zener Campa",
+    "short_name": "Campa",
+    "description": "App acceso a la campa Grupo Zener",
+    "scope": "./",
+    "start_url": "./index.php",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "./img/icono_campa_2.png",
+        "sizes": "512x512"
+      }
+    ]
+  }
